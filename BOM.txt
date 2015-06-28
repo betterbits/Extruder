@@ -1,5 +1,8 @@
+2 of M3X50 socket cap bolt
 3 of M3X35 socket cap bolt
 1 of M3X6 button cap bolt/screw
+2 of M3 half-nut
+2 of springs. 6mm ID. 8mm OD. 17mm uncompressed length. (same as used in Ultimaker UM2)
 1 of 608(ZZ) bearing
 1 of MR105(ZZ) optional for end of stepper shaft
 1 of Mk7 drive gear

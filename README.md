@@ -1,7 +1,5 @@
-# Bed-Support for delta 3D printers
+# Extruder for 3D printers that use 1.75mm filament 
 
-Designed for a Midi Kossel with 250mm diameter glass build plate.
+Designed to use Mk7 drive gear directly driven by a NEMA 17 stepper motor.
 
-Should fit other delta printers using 250mm diameter build plate.
-
-Build instructions provided.
+Loosely based on airtripper extruder.

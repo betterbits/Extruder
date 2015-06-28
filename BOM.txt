@@ -1,7 +1,7 @@
-6 of M3X10 socket cap bolt
-9 of M3X16 socket cap bolt
-Optional: 6 of M3 washers
-15 of M3 half-nuts
-Heater. Up to 230mm diameter
-Insulation material 230mm diameter (I use microfibre cloth and EVA foam matting)
-Solid base 230mm diameter (thin ply is good)
+3 of M3X35 socket cap bolt
+1 of M3X6 button cap bolt/screw
+1 of 608(ZZ) bearing
+1 of MR105(ZZ) optional for end of stepper shaft
+1 of Mk7 drive gear
+1 of NEMA17 stepper motor (recommend Kysan 1124090)
+1 of M4 pushfit with M5 thread

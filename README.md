@@ -12,6 +12,6 @@ Use an M5 tap to cut a thread in top of extruder body for push-fit.
 
 Assembly should be fairly self explanatory.
 
-Cut a block of foam 20mm cube and run a cut vertically through the middle. Push it over the filament going through the cleaner.
+Cut a block of foam 20mm cube and run a cut vertically through the middle. Push it over the filament going through the cleaner housing.
 
 Use photos of assembled extruder for reference.
